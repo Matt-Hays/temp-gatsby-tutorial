@@ -1,0 +1,9 @@
+Possible bugs when tags is passed which is the same name as the item (the item name is unique)
+or when tags containing spaces are passed (link with tag%20name ) se gatsby-node for the fix.
+(additional routing /path/path)
+
+
+
+I did not do this in this project, but because Gatbsy delivers the website statically and there is
+no back n forth between a server and client, we will need a service to handle form submissions, etc.
+They'll provide an endpoint for the action attribute most will have simple/easy steps and documentation
