@@ -5,8 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's hello-world starter
+  Coding Addict YouTube Code Along Project
 </h1>
+<h2>
+  Built with GatsbyJS
+</h2>
+<h3>I do not claim authorship of this project - All credit goes to Coding Addict & John Smilga</h3>
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
